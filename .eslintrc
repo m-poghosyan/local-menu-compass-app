@@ -1,0 +1,7 @@
+{
+  "extends": ["wesbos"],
+  "rules": {
+    "semi": "off",
+    "react/display-name": "off"
+  }
+}
